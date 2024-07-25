@@ -34,7 +34,8 @@
 ![Django](https://camo.githubusercontent.com/your-django-image-url)
 
 ## 📈 GitHub Stats
-![Vimal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vimal-Kumar-V&show_icons=true&theme=default)
+![Vimal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vimal-Kumar-V&show_icons=true&theme=default&count_private=true&include_all_commits=true&v=2
+)
 
 ## 🚀 Projects
 - [Project Alpha](https://github.com/Vimal-Kumar-V/project-alpha): A machine learning project for predictive analytics.
