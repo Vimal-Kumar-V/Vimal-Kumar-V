@@ -9,7 +9,7 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 - 🧑🏽‍💻 I'm a Software Engineer at Orangescape Technologies
-- 🧘🏽 Possessed in building scalable and performance applications.
+- 🧘🏽 Obsessed with building scalable and high-performance applications.
 - 😇 I’m interested in **Python**, **Golang**, **htmx** and **Machine Learning**.
 - 🤩 I love coding and sharing knowledge.
 
