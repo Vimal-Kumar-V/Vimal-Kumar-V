@@ -1,72 +1,27 @@
-# Hi there, I'm Vimal Kumar V 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Bring+Me+That+Horizon)](https://git.io/typing-svg)
 
-![Profile Picture](https://avatars.githubusercontent.com/u/your-profile-pic-url)
+![<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, my name is Vimal Kumar V - aka DEVIL](https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif)
 
-## About Me
-- 🌍 Location: Sholinghur
-- 📧 [Email Me](mailto:cvimalkumar21@gmail.com)
+**<h3 align="left">Connect with me:</h3>** 
+<p align="left"><a href="https://www.linkedin.com/in/vimal-kumar-v-bb0711276/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/Vimal-Kumar-V" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
-## 🛠 Skills
+ **<h3 align="left">🚀 Software Engineer by day, problem wrangler by night. Turning errors into solutions and music into code, one line at a time!😅"</h3>**
 
-### Languages
-![Python](https://camo.githubusercontent.com/your-python-image-url)
-![JavaScript](https://camo.githubusercontent.com/your-javascript-image-url)
-![Go](https://camo.githubusercontent.com/your-go-image-url)
-![Rust](https://camo.githubusercontent.com/your-rust-image-url)
-![C](https://camo.githubusercontent.com/your-c-image-url)
-![SQL](https://camo.githubusercontent.com/your-sql-image-url)
-![Bash](https://camo.githubusercontent.com/your-bash-image-url)
-![HTML](https://camo.githubusercontent.com/your-html-image-url)
-![CSS](https://camo.githubusercontent.com/your-css-image-url)
+**<h3 align="left">Rapid Fire</h3>**
+- 🧑🏽‍💻 I'm a Software Engineer at Orangescape Technologies
+- 🧘🏽 Possessed in building scalable and performance applications.
+- 😇 I’m interested in **Python**, **Golang**, **htmx** and **Machine Learning**.
+- 🤩 I love coding and sharing knowledge.
 
-### Tools
-![Docker](https://camo.githubusercontent.com/your-docker-image-url)
-![MongoDB](https://camo.githubusercontent.com/your-mongodb-image-url)
-![Postgres SQL](https://camo.githubusercontent.com/your-postgres-image-url)
-![Kubernetes](https://camo.githubusercontent.com/your-kubernetes-image-url)
-![Linux](https://camo.githubusercontent.com/your-linux-image-url)
-![GCP](https://camo.githubusercontent.com/your-gcp-image-url)
+ **<h3 align="left">Skills</h3>**
 
-### Frameworks
-![Flask](https://camo.githubusercontent.com/your-flask-image-url)
-![Pandas](https://camo.githubusercontent.com/your-pandas-image-url)
-![React](https://camo.githubusercontent.com/your-react-image-url)
-![Django](https://camo.githubusercontent.com/your-django-image-url)
+<table style="width: 100%; border: 0px solid white;"><tr><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" height="32" alt="Flask"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" height="32" alt="Django"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="32" alt="React"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" height="32" alt="Bootstrap"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="32" alt="HTML5"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height="32" alt="CSS3"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" height="32" alt="MongoDB"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="32" alt="MySQL"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="32" alt="PostgreSQL"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg" height="32" alt="Redis"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" height="32" alt="Pandas"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original-wordmark.svg" height="32" alt="PyTorch"/></td></tr><tr><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" height="32" alt="Docker"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" height="32" alt="Kubernetes"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" height="32" alt="GitHub"/></td></table>
 
-## 📈 GitHub Stats
-![Vimal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vimal-Kumar-V&show_icons=true&theme=default&count_private=true&include_all_commits=true&v=2)
-
-
-## 🚀 Projects
-- [Project Alpha](https://github.com/Vimal-Kumar-V/project-alpha): A machine learning project for predictive analytics.
-- [Project Beta](https://github.com/Vimal-Kumar-V/project-beta): A web application for task management.
-
-## 🌱 Learning and Goals
-- Currently learning: Kubernetes and cloud-native development
-- Future goals: Contribute to open-source AI projects
-
-## 📚 Blog Posts
-- [Introduction to Docker](https://example.com/blog/docker-intro): A beginner's guide to using Docker for containerization.
-- [React Hooks in Depth](https://example.com/blog/react-hooks): An in-depth look at using hooks in React applications.
-
-## 🎙 Talks and Videos
-- [Tech Talk: Advanced JavaScript](https://example.com/talk-advanced-js): An advanced session on JavaScript features and best practices.
-- [Webinar: Getting Started with Kubernetes](https://example.com/webinar-kubernetes): An introductory webinar on Kubernetes.
-
-## 📜 Publications
-- [Building Scalable Web Applications](https://example.com/publication-scalable-web): A comprehensive guide to building scalable web applications.
-
-## 🎨 Hobbies and Interests
-- Hiking, Photography, Reading sci-fi novels
+ **<h3 align="left">GitHub Stats</h3>**
+<p align="left">
+  <img width="48%" src="https://streak-stats.demolab.com/?user=Vimal-Kumar-V&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
+</p>
 
 ## 📜 Quotes and Mottos
 - "The best way to predict the future is to create it." - Peter Drucker
-
-## 🌐 Connect with Me
-- [LinkedIn](https://linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/your-profile)
-- [GitHub](https://github.com/Vimal-Kumar-V)
-
----
-
-⭐️ From [Vimal Kumar V](https://github.com/Vimal-Kumar-V)
+- "I believe that whatever doesn't kill you, simply makes you... stranger." - 🃏
